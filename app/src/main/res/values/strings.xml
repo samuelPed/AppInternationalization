@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AppInternationalization</string>
+    <string name="hint_name">Name</string>
+    <string name="text_hello_world">Hello World</string>
+    <string name="hint_number">Number</string>
+    <string name="button_save">Save the Data</string>
+    <string name="text_device_language">English</string>
+    <string name="text_person_name">Person Name</string>
+    <string name="text_resul_number">Phone Number</string>
+    <string name="text_result">Result of Date:</string>
 </resources>

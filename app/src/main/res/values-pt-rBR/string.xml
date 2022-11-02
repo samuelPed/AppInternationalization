@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicativo Intercionalização</string>
+    <string name="hint_name">Nome</string>
+    <string name="text_hello_world">Olá, Mundo!</string>
+    <string name="hint_number">Número Telefonico </string>
+    <string name="button_save">Salvar os Dados</string>
+    <string name="text_device_language">Português BR</string>
+    <string name="text_person_name">Nome da Pessoa</string>
+    <string name="text_resul_number">Número Telefone</string>
+    <string name="text_result">Resultado dos Dados:</string>
+</resources>
