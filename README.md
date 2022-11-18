@@ -1,5 +1,5 @@
 # App Internationalization
-This Projetcs is a demo for exemple of the internationalization using Android Studio and Kotlin. 
+This Project is a demo for exemple of the internationalization using Android Studio and Kotlin. 
 
 # Activity Default
 The image below is display simulate of Android Studio. 
